@@ -118,8 +118,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 
 -   Thanks to the developers and contributors for their support and collaboration in bringing **SkillHub** to life.
-
-```
-
-Now the **Frontend** code block is properly formatted. Let me know if you need further changes!
-```
