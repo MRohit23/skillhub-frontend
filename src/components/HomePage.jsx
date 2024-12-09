@@ -55,7 +55,11 @@ const HomePage = () => {
                         <Row>
                             <Col md={3} sm={0} xs={0}></Col>
                             <Col md={6}>
-                                <Button size="lg" as={Link} to="/freelancers">
+                                <Button
+                                    size="lg"
+                                    as={Link}
+                                    to="/hirefreelancers"
+                                >
                                     Hire Freelancers
                                 </Button>{" "}
                                 <Button

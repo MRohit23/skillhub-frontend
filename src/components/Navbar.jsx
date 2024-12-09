@@ -37,7 +37,7 @@ const Navigation = ({ isLoggedIn, handleLogout }) => {
                                     as={Link}
                                     to="/hirefreelancers"
                                     className={
-                                        isActive("/freelancers")
+                                        isActive("/hirefreelancers")
                                             ? "active-link"
                                             : ""
                                     }
